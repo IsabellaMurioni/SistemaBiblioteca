@@ -23,7 +23,7 @@ python --version
 ## Estructura del proyecto
 
 ```
-Biblio-main/
+SistemaBiblioteca/
 │
 ├── app.py              # Archivo principal de Flask
 ├── templates/          # Archivos HTML
@@ -39,7 +39,7 @@ Biblio-main/
 ### 1. Abrir Git Bash en la carpeta del proyecto
 
 ```bash
-cd /c/Users/Usuario/Desktop/Biblio-main
+cd /c/Users/Usuario/Desktop/SistemaBiblioteca
 ```
 
 ---
